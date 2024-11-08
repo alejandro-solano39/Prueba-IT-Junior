@@ -7,6 +7,7 @@ Esta es una aplicación web para la administración de usuarios, que permite rea
 1. **Servidor Web**: Se recomienda usar [XAMPP](https://www.apachefriends.org/) o [WAMP](https://www.wampserver.com/) para ejecutar un servidor Apache local con PHP y MySQL.
 2. **PHP**: Versión 7.4 o superior.
 3. **MySQL**: Base de datos MySQL para almacenar la información de usuarios.
+4. **Usuario Prueba:** *Nombre:* Usuario Prueba	*correo:*usuario@gmail.com *contraseña:*123456
 
 ## Instalación
 
@@ -14,8 +15,8 @@ Esta es una aplicación web para la administración de usuarios, que permite rea
 
 Clona el repositorio en tu máquina local o descarga el código fuente.
 
-git clone https://github.com/tu-usuario/nombre-repositorio.git
-cd nombre-repositorio
+git clone https://github.com/alejandro-solano39/Prueba-IT-Junior.git
+cd Prueba-IT-Junior
 
 ### Paso 2: Configurar la Base de Datos
 Abre el gestor de bases de datos de MySQL (phpMyAdmin en XAMPP o el cliente que prefieras).
@@ -41,7 +42,7 @@ define('DB_PASSWORD', '');             // Contraseña de MySQL
 
 ### Paso 4: Configurar el Servidor Web
 Si estás usando XAMPP, coloca la carpeta del proyecto en el directorio htdocs. Si es WAMP, colócala en www.
-Accede a la aplicación en tu navegador: http://localhost/nombre-repositorio/public/.
+Accede a la aplicación en tu navegador: http://localhost/Prueba-IT-Junior/public/.
 
 ## Ejecución
 Inicia Apache y MySQL en XAMPP o WAMP.
