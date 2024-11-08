@@ -41,7 +41,7 @@ define('DB_PASSWORD', '');             // Contraseña de MySQL
 
 ### Paso 4: Configurar el Servidor Web
 Si estás usando XAMPP, coloca la carpeta del proyecto en el directorio htdocs. Si es WAMP, colócala en www.
-Accede a la aplicación en tu navegador: http://localhost/nombre-repositorio/public/.
+Accede a la aplicación en tu navegador: http://localhost/Prueba-IT-Junior/public/.
 
 ## Ejecución
 Inicia Apache y MySQL en XAMPP o WAMP.
